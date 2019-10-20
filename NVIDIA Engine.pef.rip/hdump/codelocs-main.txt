@@ -1,0 +1,4 @@
+[
+  {'section': 'code', 'offset': 0x03da0, 'function': 'init'},
+  {'section': 'code', 'offset': 0x03ed0, 'function': 'term'},
+]

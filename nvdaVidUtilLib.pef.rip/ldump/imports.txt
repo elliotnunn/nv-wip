@@ -1,0 +1,13 @@
+[
+  {
+    'name': 'InterfaceLib',
+    'oldImpVersion': 0,
+    'currentVersion': 0,
+    'specialOrderFlag': 0,
+    'weakFlag': 0,
+    'symbols': [
+      {'kind': 'tvector', 'weakFlag': 1, 'name': 'NewPtr'},
+      {'kind': 'tvector', 'weakFlag': 1, 'name': 'DisposePtr'},
+    ],
+  },
+]

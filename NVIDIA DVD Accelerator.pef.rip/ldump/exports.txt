@@ -1,0 +1,5 @@
+[
+  {'section': 'pidata', 'offset': 0x00228, 'kind': 'tvector', 'name': 'DVDVideoCommand'},
+  {'section': 'pidata', 'offset': 0x003a0, 'kind': 'tvector', 'name': 'DVDWake'},
+  {'section': 'pidata', 'offset': 0x003a8, 'kind': 'tvector', 'name': 'DVDSleep'},
+]

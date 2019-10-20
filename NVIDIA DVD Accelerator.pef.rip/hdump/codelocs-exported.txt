@@ -1,0 +1,5 @@
+[
+  {'section': 'code', 'offset': 0x00000, 'function': 'DVDVideoCommand'},
+  {'section': 'code', 'offset': 0x2ab40, 'function': 'DVDSleep'},
+  {'section': 'code', 'offset': 0x2ac60, 'function': 'DVDWake'},
+]

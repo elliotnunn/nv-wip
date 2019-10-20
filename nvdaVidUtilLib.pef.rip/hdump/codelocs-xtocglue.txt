@@ -1,0 +1,4 @@
+[
+  {'section': 'code', 'offset': 0x016d4, 'function': 'NewPtr'},
+  {'section': 'code', 'offset': 0x016ec, 'function': 'DisposePtr'},
+]

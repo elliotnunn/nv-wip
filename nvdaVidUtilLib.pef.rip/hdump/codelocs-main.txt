@@ -1,0 +1,3 @@
+[
+  {'section': 'code', 'offset': 0x00000, 'function': 'main'},
+]

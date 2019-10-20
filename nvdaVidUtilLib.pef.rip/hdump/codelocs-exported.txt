@@ -1,0 +1,11 @@
+[
+  {'section': 'code', 'offset': 0x00000, 'function': 'nvVU_getVersion'},
+  {'section': 'code', 'offset': 0x00010, 'function': 'nvVU_RegisterThisCodec'},
+  {'section': 'code', 'offset': 0x000d0, 'function': 'nvVU_UnregisterThisCodec'},
+  {'section': 'code', 'offset': 0x00160, 'function': 'nvVU_GetDrawBandInProgress'},
+  {'section': 'code', 'offset': 0x00170, 'function': 'nvVU_DrawBandBegin'},
+  {'section': 'code', 'offset': 0x00180, 'function': 'nvVU_AddDrawBandToQueue'},
+  {'section': 'code', 'offset': 0x00230, 'function': 'nvVU_DrawBandEnd'},
+  {'section': 'code', 'offset': 0x016c0, 'function': '__som_check_new'},
+  {'section': 'code', 'offset': 0x016d0, 'function': '__som_check_ev'},
+]

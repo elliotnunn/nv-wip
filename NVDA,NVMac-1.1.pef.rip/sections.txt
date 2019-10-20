@@ -1,0 +1,32 @@
+[
+  {
+    'name': '',
+    'defaultAddress': 0x00000000,
+    'sectionKind': 'code',
+    'shareKind': 'global',
+    'alignment': 4,
+    'filename': 'code',
+    '_hackPackOrder': 1,
+    '_hackExplicitTrailingZeros': 2,
+  },
+  {
+    'name': '',
+    'defaultAddress': 0x00000000,
+    'sectionKind': 'pidata',
+    'shareKind': 'process',
+    'alignment': 4,
+    'filename': 'pidata',
+    '_hackPackOrder': 2,
+    '_hackUnexpectedAlign': 0x00010,
+  },
+  {
+    'name': '',
+    'defaultAddress': 0x00000000,
+    'sectionKind': 'loader',
+    'shareKind': 'global',
+    'alignment': 4,
+    'filename': 'loader',
+    '_hackPackOrder': 0,
+    '_hackUnexpectedAlign': 0x00080,
+  },
+]

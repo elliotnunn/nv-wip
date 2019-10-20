@@ -1,0 +1,4 @@
+{
+  'init': {'section': 'pidata', 'offset': 0x01858},
+  'term': {'section': 'pidata', 'offset': 0x01850},
+}

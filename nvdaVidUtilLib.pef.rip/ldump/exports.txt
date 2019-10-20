@@ -1,0 +1,11 @@
+[
+  {'section': 'pidata', 'offset': 0x00024, 'kind': 'tvector', 'name': 'nvVU_DrawBandEnd'},
+  {'section': 'pidata', 'offset': 0x0002c, 'kind': 'tvector', 'name': 'nvVU_AddDrawBandToQueue'},
+  {'section': 'pidata', 'offset': 0x00034, 'kind': 'tvector', 'name': 'nvVU_DrawBandBegin'},
+  {'section': 'pidata', 'offset': 0x0003c, 'kind': 'tvector', 'name': 'nvVU_GetDrawBandInProgress'},
+  {'section': 'pidata', 'offset': 0x00044, 'kind': 'tvector', 'name': 'nvVU_UnregisterThisCodec'},
+  {'section': 'pidata', 'offset': 0x0004c, 'kind': 'tvector', 'name': 'nvVU_RegisterThisCodec'},
+  {'section': 'pidata', 'offset': 0x00054, 'kind': 'tvector', 'name': 'nvVU_getVersion'},
+  {'section': 'pidata', 'offset': 0x0005c, 'kind': 'tvector', 'name': '__som_check_ev'},
+  {'section': 'pidata', 'offset': 0x00064, 'kind': 'tvector', 'name': '__som_check_new'},
+]

@@ -1,0 +1,4 @@
+[
+  {'section': 'pidata', 'offset': 0x00384, 'kind': 'tvector', 'name': 'DoDriverIO'},
+  {'section': 'pidata', 'offset': 0x003b4, 'kind': 'data', 'name': 'TheDriverDescription'},
+]

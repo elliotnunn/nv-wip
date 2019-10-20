@@ -1,0 +1,19 @@
+{
+  'driverDescSignature': 'mtej',
+  'driverDescVersion': 0,
+  'driverType': {
+    'nameInfoStr': 'NVDA,NVMac',
+    'version': '1.1',
+  },
+  'driverOSRuntimeInfo': {
+    'driverRuntime': 'kDriverIsOpenedUponLoad|kDriverIsUnderExpertControl',
+    'driverName': '.Display_NV',
+  },
+  'driverServices': [
+    {
+      'serviceCategory': 'ndrv',
+      'serviceType': 'vido',
+      'serviceVersion': '01000000',
+    },
+  ],
+}
